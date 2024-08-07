@@ -3,6 +3,8 @@
 ## Description
 Discord moderator bot built to protect against romance scams. Built with
 
+[Original repository](https://github.com/AriGlenn/cs152bots-group-9)
+
 ## Installation
 
 N/A
