@@ -1,7 +1,9 @@
 # Discord Moderator Bot
 
 ## Description
-Discord moderator bot built to protect against romance scams. Built with
+Discord moderator bot built to protect against romance scams. Built with Python and Juypter Notebook.
+
+[Here](https://drive.google.com/file/d/12S5HvyUz_vA4LiYZp7mXBhW8ZT7-2-nh/view?usp=sharing) is a video showing the functionality of the Bot.
 
 [Original repository](https://github.com/AriGlenn/cs152bots-group-9)
 
