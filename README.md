@@ -41,15 +41,16 @@ N/A
 
 ## Credit
 
-Starter code provided by Stanford University CS152: https://github.com/stanfordio/cs152bots
+Starter code provided by Stanford University CS152: https://github.com/stanfordio/cs152bots <br>
+
 [Original repository](https://github.com/AriGlenn/cs152bots-group-9)
 
 ### References
 
-1. Fletcher, E. (2023, February 9). Romance scammers’ favorite lies exposed. Consumer Protection: Data Spotlight. https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed <br>
-2. Maltseva, Irina. “The 5 Latest Hinge Scams: How to Identify a Hinge Scammer.” Aura, 24 July 2023, www.aura.com/learn/hinge-scammers. <br>
-3. McClain, Colleen, and Gelles-Watnick, Risa. “The Who, Where and Why of Online Dating in the U.S.” Pew Research Center, Pew Research Center, 2 Feb. 2023, www.pewresearch.org/internet/2023/02/02/the-who-where-and-why-of-online-dating-in-the-u-s/#:~:text=Some%20dating%20platforms%20are%20especially,and%202%25%20have%20used%20Hinge. <br>
-3. Morning Consult. (January 27, 2022). Responsibilities of social media companies regarding catfishing according to adults in the United States as of January 2022, by age group. Retrieved April 19, 2024, from https://www.statista.com/statistics/1295015/us-adults-social-media-companies-catfishing-responsibilities-by-age-group/ <br>
+1. Fletcher, Emma. "Romance scammers’ favorite lies exposed." Consumer Protection: Data Spotlight, Federal Trade Commission, 9 Feb. 2023, [FTC](https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed) <br>
+2. Maltseva, Irina. “The 5 Latest Hinge Scams: How to Identify a Hinge Scammer.” Aura, 24 July 2023, [Aura](www.aura.com/learn/hinge-scammers.) <br>
+3. McClain, Colleen, and Gelles-Watnick, Risa. “The Who, Where and Why of Online Dating in the U.S.” Pew Research Center, Pew Research Center, 2 Feb. 2023, [Pew](www.pewresearch.org/internet/2023/02/02/the-who-where-and-why-of-online-dating-in-the-u-s/#:~:text=Some%20dating%20platforms%20are%20especially,and%202%25%20have%20used%20Hinge.) <br>
+4. Dixon, Stacy Jo. "Responsibilities of social media companies regarding catfishing according to adults in the United States as of January 2022". Morning Consult, Statista, 27 Jan. 2022),  [Statista](https://www.statista.com/statistics/1295015/us-adults-social-media-companies-catfishing-responsibilities-by-age-group/) <br>
 
 ## Contributors
 Ari Glenn <br>
