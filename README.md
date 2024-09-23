@@ -59,9 +59,9 @@ N/A
 
 ## Credit
 
-Starter code provided by Stanford University CS152: https://github.com/stanfordio/cs152bots <br>
-
 [Original repository](https://github.com/AriGlenn/cs152bots-group-9)
+
+Starter code provided by Stanford University CS152: https://github.com/stanfordio/cs152bots <br>
 
 ### References
 
