@@ -41,6 +41,8 @@ Synthetic Fields: gender, time spent, response rate, first message sent
 All messages undergo automated analysis for concerning content, which is subsequently escalated to moderators for further review.
 The matches of users of concern are automatically warned when a message suggests moving off-platform.
 
+![AGV_vUc2brpe8-wuqxKXZH-ugkm4p3egD-EY2cLYw3X1jav-KXX3be2erMoLhVWSCiYzg_oKFIk-GrLlvMkmLGU4DhVL9kEIp9PuELdnmVyXxkCqHYsuXVoHqx8-](https://github.com/user-attachments/assets/535d6976-ebdf-410e-8c59-4e08870ab443)
+
 ### Reporting
 
 <img width="500" alt="AGV_vUenXbwpJLmGxkNksiWdmVy0Yd1sXaKJXzZ0i7eQRDR9bM718gxRt6q8pXmeiltBYATw_1eMbN7LrIsJ0zQ3EVTI8pFHA4leMGW2TC8ehE6O33AcNElugFp4" src="https://github.com/user-attachments/assets/386bbc47-a3ae-4d7f-bade-35a0805ffbd1">
