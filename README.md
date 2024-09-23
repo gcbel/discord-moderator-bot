@@ -27,9 +27,25 @@ Resolving this issue is a popular user demand (4).
 
 ### User Metadata Classifier
 
+We developed a logistic regression classifier using a proxy dataset of real and inauthentic Instagram profiles which takes in user metadata and outputs a "suspicion score" which represents the likelihood that a profile is fraudulent, based on its metadata. This score is provided to moderators when a user's message is flagged, enabling rapid contextual analysis of the reported user's profile characteristics. 
+
+Our classifier was developed using 1,500 data points derived from a proxy dataset of fake Instagram profiles. Following data processing and augmentation, it achieved an accuracy of 95.6% on the test set. The generation of synthetic fields related to our domain required assumptions about the underlying distributions, which could influence these results.
+
+<img width="584" alt="User metadata classifier flowchart" src="https://github.com/user-attachments/assets/02ac8a2e-2a0d-474b-b2e2-9e9f16e8db9d"> <br>
+
+Collected Fields: number of posts, description, contains external url <br>
+Synthetic Fields: gender, time spent, response rate, first message sent
+
 ### Automated Flagging
 
+All messages undergo automated analysis for concerning content, which is subsequently escalated to moderators for further review.
+The matches of users of concern are automatically warned when a message suggests moving off-platform.
+
 ### Reporting
+
+<img width="500" alt="AGV_vUenXbwpJLmGxkNksiWdmVy0Yd1sXaKJXzZ0i7eQRDR9bM718gxRt6q8pXmeiltBYATw_1eMbN7LrIsJ0zQ3EVTI8pFHA4leMGW2TC8ehE6O33AcNElugFp4" src="https://github.com/user-attachments/assets/386bbc47-a3ae-4d7f-bade-35a0805ffbd1">
+
+<img width="500" alt="AGV_vUcxw18yZ9NKlszyE6a34qWPyVtu_52agboUANjiFAH7gT-NCBCmLchEX4oAeGSWfHNmlwIIP3GRVNBdeJdtGrMUWYgjEB8-V6ThPSkRl4noqutjpJ4Ak6LG" src="https://github.com/user-attachments/assets/97a80802-5c71-41bf-aea9-8d81cb0c6919">
 
 ## Installation
 
