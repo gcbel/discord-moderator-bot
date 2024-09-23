@@ -8,12 +8,28 @@ Discord moderator bot built to protect against romance scams. Built with Python 
 
 [Here](https://drive.google.com/file/d/12S5HvyUz_vA4LiYZp7mXBhW8ZT7-2-nh/view?usp=sharing) is a video showing the functionality of the Bot.
 
+## Table of Contents
+  [Background](#background) <br>
+  [Functionality](#functionality) <br>
+  [Installation and Usage](#installation) <br>
+  [Credit](#credit) <br>
+  [Contributors](#contributors) <br>
+  [License](#license) <br>
+
 ## Background
 Financial scams on dating platforms target victims by setting up desirable online profiles (e.g. catfishing) that are designed to con targets out of money. Cryptocurrency scams are a rising subset. In 2022 alone, 70,000 people in the U.S. reported being caught in a romance scam, with reported losses hitting a staggering $1.3 billionٖٖ (1). 
 
 Adults under 30 are the most prominent group on dating platforms and 6x more likely to be targets of dating apps scams than adults over 30 (2)(3). A second victim is the individual whose images are stolen; they can face harassment for being dragged into the abuse of others online.
 
 Resolving this issue is a popular user demand (4).
+
+## Functionality
+
+### User Metadata Classifier
+
+### Automated Flagging
+
+### Reporting
 
 ## Installation
 
@@ -28,7 +44,7 @@ N/A
 Starter code provided by Stanford University CS152: https://github.com/stanfordio/cs152bots
 [Original repository](https://github.com/AriGlenn/cs152bots-group-9)
 
-## References
+### References
 
 1. Fletcher, E. (2023, February 9). Romance scammers’ favorite lies exposed. Consumer Protection: Data Spotlight. https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed <br>
 2. Maltseva, Irina. “The 5 Latest Hinge Scams: How to Identify a Hinge Scammer.” Aura, 24 July 2023, www.aura.com/learn/hinge-scammers. <br>
