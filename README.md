@@ -9,15 +9,19 @@ Discord moderator bot built to protect against romance scams. Built with Python 
 [Here](https://drive.google.com/file/d/12S5HvyUz_vA4LiYZp7mXBhW8ZT7-2-nh/view?usp=sharing) is a video showing the functionality of the Bot.
 
 ## Table of Contents
-  [Background](#background) <br>
-  [Functionality](#functionality) <br>
-  [Installation and Usage](#installation) <br>
-  [Credit](#credit) <br>
-  [Contributors](#contributors) <br>
-  [License](#license) <br>
+  * [Background](#background) <br>
+  * [Functionality](#functionality) <br>
+    * [User Metadata Classifier](#user-metadata-classifier) <br>
+    * [Automated Flagging](#automated-flagging) <br>
+    * [Reporting](#reporting) <br>
+  * [Installation](#installation) <br>
+  * [Usage](#usage) <br>
+  * [Credit](#credit) <br>
+  * [Contributors](#contributors) <br>
+  * [License](#license) <br>
 
 ## Background
-Financial scams on dating platforms target victims by setting up desirable online profiles (e.g. catfishing) that are designed to con targets out of money. Cryptocurrency scams are a rising subset. In 2022 alone, 70,000 people in the U.S. reported being caught in a romance scam, with reported losses hitting a staggering $1.3 billionٖٖ (1). 
+Financial scams on dating platforms target victims by setting up desirable online profiles (e.g. catfishing) that are designed to con targets out of money. Cryptocurrency scams are a rising subset. In 2022 alone, 70,000 people in the U.S. reported being caught in a romance scam, with reported losses hitting a staggering $1.3 billion (1). 
 
 Adults under 30 are the most prominent group on dating platforms and 6x more likely to be targets of dating apps scams than adults over 30 (2)(3). A second victim is the individual whose images are stolen; they can face harassment for being dragged into the abuse of others online.
 
