@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was designed to streamline the automatic flagging of offending content and profiles to improve user safety from scams and spam.
+This project was designed to streamline the automatic flagging of spam or other suspicious content and profiles to improve user safety from scams and spam.
 
 Discord moderator bot built to protect against romance scams. Built with Python and Juypter Notebook.
 
